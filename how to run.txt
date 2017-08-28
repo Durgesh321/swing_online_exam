@@ -1,0 +1,6 @@
+1)extract and import project in netbean
+2)create one database named online_exam in MYSQL DB
+3)configure db username and password in hibernate.cfg.xml file
+4) run the project
+5) help>insert dummy records
+6)start test
